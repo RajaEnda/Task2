@@ -27,7 +27,7 @@ Contoh UI Framework yang tersedia dan banyak di kenal<br>
 Revaktor aplikasi berita pada latihan vue data sebelumnya menggunakan vuetify, dengan menambahkan menu.<br>
 
               </p>
-              <img src="ui.png" alt="">
+              <img src="Screenshot (406).png" alt="">
             </div>
           </div>
 </div>
